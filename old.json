@@ -1,0 +1,87 @@
+{
+  "rahul": {
+    "email": "rahulvishaltog@gmail.com",
+    "password": "Hogaya,.12",
+    "user_id": 7613349080,
+    "username": "rahul",
+    "added_date": "2025-12-31 17:55:29",
+    "is_default": true,
+    "edit_count": 0,
+    "otp_channels": [
+      -1003655923542,
+      -1003566401969,
+      -1003669530550
+    ]
+  },
+  "kanav": {
+    "email": "missarohi506171@gmail.com",
+    "password": "Rakib506171",
+    "user_id": 7078723346,
+    "username": "kanav",
+    "added_date": "2025-12-31 19:15:47",
+    "is_default": true,
+    "edit_count": 0,
+    "otp_channels": [
+      -1003655923542
+    ]
+  },
+  "mehedi": {
+    "email": "wymzrxawbp@zudpck.com",
+    "password": "mehedi@01",
+    "user_id": 7999005985,
+    "username": "mehedi",
+    "added_date": "2026-01-01 19:56:38",
+    "is_default": true,
+    "edit_count": 0,
+    "otp_channels": [
+      -1003316772634
+    ]
+  },
+  "main": {
+    "email": "rahulvishaltog@gmail.com",
+    "password": "Hogaya,.12",
+    "user_id": 7312616147,
+    "username": "main",
+    "added_date": "2026-01-01 20:05:25",
+    "is_default": true,
+    "edit_count": 0,
+    "otp_channels": [
+      -1003566401969
+    ]
+  },
+  "krishop": {
+    "email": "d542051k@gmail.com",
+    "password": "Pandey@123",
+    "user_id": 7917201759,
+    "username": "krishop",
+    "added_date": "2026-01-01 20:51:35",
+    "is_default": false,
+    "edit_count": 0,
+    "otp_channels": [
+      1003094311519
+    ]
+  },
+  "developer": {
+    "email": "business.pokesparky@gmail.com",
+    "password": "Ashwin Ashu",
+    "user_id": 7917201759,
+    "username": "developer",
+    "added_date": "2026-01-02 12:35:16",
+    "is_default": true,
+    "edit_count": 0,
+    "otp_channels": [
+      1003573581066
+    ]
+  },
+  },
+  "wtsaprick": {
+    "email": "rahulvishaltog@gmail.com",
+    "password": "Hogaya,.12",
+    "user_id": 6099357643,
+    "username": "wtsaprick",
+    "added_date": "2026-01-04 17:11:54",
+    "is_default": true,
+    "edit_count": 0,
+    "otp_channels": []
+  }
+}
